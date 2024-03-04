@@ -32,7 +32,7 @@ This is a clone of the well-known e-commerce website Amazon. Customers can brow
 </ul>
 
 ## Download Files 👇
-* Go to my GitHub repository: 
+* Go to my GitHub repository: https://github.com/SurbhiSharma178/Amazon-clone.git
 * Download zip or clone repository
 * Then open the folder in your IDE
 

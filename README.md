@@ -37,7 +37,7 @@ This is a clone of the well-known e-commerce website Amazon. Customers can brow
 * Then open the folder in your IDE
 
 ## To start the server 👨‍💻
-shell
+shell 
 npm install
 nodemon
 

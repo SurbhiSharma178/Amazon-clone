@@ -32,7 +32,7 @@ This is a clone of the well-known e-commerce website Amazon. Customers can brow
 </ul>
 
 ## Download Files 👇
-* Go to my GitHub repository: https://github.com/khushirajput305/MERN-stack-Amazon-clone
+* Go to my GitHub repository: 
 * Download zip or clone repository
 * Then open the folder in your IDE
 
@@ -41,7 +41,7 @@ shell
 npm install
 nodemon
 
-The server is now running at http://localhost:5007/ 
+The server is now running at http://localhost:8005/ 
 
 ## To start the client 👩‍💻
 shell
